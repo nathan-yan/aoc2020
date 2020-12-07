@@ -2,7 +2,7 @@
 # part 1 -> 00:03:28 [365th  place]
 # part 2 -> 00:09:57 [1092th place]
 
-with open("6.in" , 'r') as f:
+with open("../inputs/6.in" , 'r') as f:
     lines = f.readlines()
     c = 0
     acc = ''

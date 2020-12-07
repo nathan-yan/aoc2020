@@ -2,7 +2,7 @@
 # part 1 -> 00:08:35 [93rd place!]
 # part 2 -> 00:11:32 [48th place!]
 
-with open("7.in", 'r') as f:
+with open("../inputs/7.in", 'r') as f:
     rules = f.readlines()
 
     contains = {}

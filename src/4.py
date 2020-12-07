@@ -2,7 +2,7 @@
 # part 1 -> 00:08:54 [1105th place]
 # part 2 -> 00:14:40 [157th  place]
 
-with open("4.in", 'r') as f: 
+with open("../inputs/4.in", 'r') as f: 
     lines = f.readlines()
     passport = ""
     valid = 0

@@ -4,7 +4,7 @@
 
 m = []
 
-with open("3.in", 'r') as f:
+with open("../inputs/3.in", 'r') as f:
     lines = f.readlines()
 
     for l in lines:

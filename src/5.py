@@ -2,7 +2,7 @@
 # part 1 -> 00:04:12 [138th place]
 # part 2 -> 00:11:34 [729th place]
 
-with open("5.in", 'r') as f:
+with open("../inputs/5.in", 'r') as f:
     lines = f.readlines()
 
     seats = set()

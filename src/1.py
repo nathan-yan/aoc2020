@@ -5,7 +5,7 @@
 match = set()
 
 def f():
-    with open('1.in', 'r') as f:
+    with open('../inputs/1.in', 'r') as f:
         lines = f.readlines()
 
         for l in lines:
