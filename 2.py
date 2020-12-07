@@ -1,4 +1,6 @@
 # day 2
+# part 1 -> 00:03:52 [352th place]
+# part 2 -> 00:05:17 [172th place!]
 
 with open('2.in', 'r') as f:
     lines = f.readlines()
