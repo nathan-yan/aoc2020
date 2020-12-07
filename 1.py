@@ -1,4 +1,6 @@
 # day 1 
+# part 1 -> 00:48:21 [5397th place]
+# part 2 -> 00:51:10 [4936th place!]
 
 match = set()
 

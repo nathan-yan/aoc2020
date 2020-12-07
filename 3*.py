@@ -1,4 +1,6 @@
 # day 3
+# part 1 -> 00:03:29 [259th place]
+# part 2 -> 00:04:50 [89th place!]
 
 m = []
 
